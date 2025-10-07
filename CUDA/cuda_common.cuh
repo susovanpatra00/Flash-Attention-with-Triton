@@ -1,1 +1,0 @@
-#define CUDA_CHECK(err) do {cuda_check((err), __FILE__, __LINE__);} while(0)
